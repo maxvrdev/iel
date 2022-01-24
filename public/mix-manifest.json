@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/styles.css": "/css/styles.css",
+    "/assets/chart-area-demo.js": "/assets/chart-area-demo.js",
+    "/assets/chart-bar-demo.js": "/assets/chart-bar-demo.js",
+    "/assets/chart-pie-demo.js": "/assets/chart-pie-demo.js",
+    "/assets/datatables-demo.js": "/assets/datatables-demo.js"
+}
